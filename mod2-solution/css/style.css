@@ -107,7 +107,7 @@ h1 {
    @media screen and (max-width: 767px) { 
      /* Mobile View */
     div {
-       width: 92%;
+       width: 80%;
      }
  }
 
